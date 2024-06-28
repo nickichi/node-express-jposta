@@ -10,6 +10,6 @@
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.19.2",
-    "jposta": "^0.0.1"
+    "jposta": "^0.2.0"
   }
 }
