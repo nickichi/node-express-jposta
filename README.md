@@ -10,8 +10,8 @@ $ node src/api.mjs
 
 ```bash
 $ curl "http://localhost:3000/api/getAddress?zip=1000001"
-{"pref":"東京都","prefNum":13,"city":"千代田区","town":"千代田"}
+{"pref":"東京都","prefNum":13,"city":"千代田区","area":"千代田"}
 
 $ curl "http://localhost:3000/api/getAddress?zip=907-0023"
-{"pref":"沖縄県","prefNum":47,"city":"石垣市","town":"石垣"}
+{"pref":"沖縄県","prefNum":47,"city":"石垣市","area":"石垣"}
 ```
